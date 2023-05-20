@@ -7,10 +7,7 @@
 <table>
   <tr>
     <td>
-        <img width="150" height="150" src="https://raw.githubusercontent.com/AprovanLabs/design/main/assets/text-studios.svg" alt="Aprovan">
-        </br>
-        </br>
-        </br>
+        <img width="150" src="https://raw.githubusercontent.com/AprovanLabs/design/main/assets/logo-studios.png" alt="Aprovan">
     </td>
     <td>
         Sofware behind <a href="https://aprovan.com">Aprovan</a>, the one-stop-shop for custom software solutions
