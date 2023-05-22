@@ -10,7 +10,7 @@
         <img width="150" src="https://raw.githubusercontent.com/AprovanLabs/design/main/assets/logo-studios.png" alt="Aprovan">
     </td>
     <td>
-        Software behind <a href="https://aprovan.com">Aprovan</a>, the one-stop-shop for custom software solutions
+        Code behind <a href="https://aprovan.com">Aprovan</a>, the one-stop-shop for custom software solutions
         </br>
         </br>
         <a href="https://www.linkedin.com/company/aprovan">
