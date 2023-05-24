@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="300" height="300" src="https://raw.githubusercontent.com/AprovanLabs/design/main/assets/logo-labs.png" alt="Aprovan Labs">
+    <img width="300" height="300" src="https://raw.githubusercontent.com/AprovanLabs/aprovan.com/main/docs/assets/logo-labs.png" alt="Aprovan Labs">
 </p>
 
 <h1 align="center">Aprovan Labs</h1>
@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td>
-        <img width="150" src="https://raw.githubusercontent.com/AprovanLabs/design/main/assets/logo-studios.png" alt="Aprovan">
+        <img width="150" src="https://raw.githubusercontent.com/AprovanLabs/aprovan.com/main/docs/assets/logo-studios.png" alt="Aprovan">
     </td>
     <td>
         Code behind <a href="https://aprovan.com">Aprovan</a>, the one-stop-shop for custom software solutions
