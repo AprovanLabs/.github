@@ -12,6 +12,8 @@
     <td>
         Code behind <a href="https://aprovan.com">Aprovan</a>, the one-stop-shop for custom software solutions
         </br>
+        <a href="https://aprovan.com">aprovan.com</a> &middot; <a href="https://docs.aprovan.com">docs.aprovan.com</a>
+        </br>
         </br>
         <a href="https://www.linkedin.com/company/aprovan">
             <img height="20" src="https://img.shields.io/badge/-Aprovan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/aprovan)" alt="Aprovan LinkedIn">
